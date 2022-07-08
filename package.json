@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vite": "^2.9.13",
+    "vite-plugin-ruby": "^3.0.12"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "screen-size-vue": "^1.0.2",
+    "vue": "3.2.33"
+  }
+}
